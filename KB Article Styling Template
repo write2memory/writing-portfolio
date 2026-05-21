@@ -1,0 +1,45 @@
+# KB Article Template
+
+# Overview
+_A few sentences to describe what the article is about_
+
+**Subject Matter Expert(s)**: _Include the individual or individuals with the authoritative resource for the technical discovery, and should be the "Reviewer" of internal documentation_
+# Table of Contents
+[[_TOC_]]
+
+# Requirements
+_List any specific permissions or access required to perform the actions in this article_
+*   _List the requirements one at a time_
+*   _Make sure to include every permission/access_
+_If there is a department/internal entity that can be contacted to update permissions/access requests, list them here._
+# _Descriptive Section Title_
+_Each section must have a description of the content discussed._
+# _Step-by-Step Procedure_
+_When the content is a step-by-step process or procedure, give the section a description, and include the process in the following format_:
+
+Description of the process/procedure (2 - 3 sentences)
+
+**To do something inside of something else**
+1. Clear steps using the active voice
+2. When a link is indicated, it will be **bolded**
+3. If the step involves sub-steps
+    1. Label them with letters underneath the main number
+    2. If screenshots are required for sub-steps, make sure they are at the same indented level as the step
+4. Ensure that any screenshots clearly display the actions needed
+# KB Article Styling Rules
+Use the styling best practices when writing/creating documents in this space.
+## Active Voice vs Passive Voice
+The documentation **_should always_** be in the active voice. Use the table to view examples of active vs. passive voice verb tenses, sentences, and more.
+
+| Wording Tense | ✅ Active Voice | ❌ Passive Voice |
+| ---| ---| --- |
+| Simple Present | The Website Project Manager writes the SOP for website deployment. | The SOP for website deployment is written by the Website Project Manager. |
+| Continuous Present | The development team is uploading the media assets to the staging site. | The media assets are being uploaded to the staging site by the development team. |
+| Simple Past | The developer verified the reCAPTCHA v3 API keys yesterday. | The reCAPTCHA v3 API keys were verified by the QA engineer yesterday. |
+| Continuous Past | The support desk was troubleshooting the DNS routing error all morning. | The DNS routing error was being troubleshooted by the support desk all morning. |
+| Perfect Present | The technical writer has updated the onboarding documentation guidelines. | The onboarding documentation guidelines have been updated by the technical writer. |
+| Perfect Past | The network administrator had resolved the server timeout before the site launch. | The server timeout had been resolved by the network administrator before the site launch. |
+| Simple Future | The developer will configure the Elementor hamburger menu for mobile views. | The Elementor hamburger menu will be configured for mobile views by the developer. |
+| Modals | You must click the 'Regenerate Files & Data' button to clear the CSS cache. | The 'Regenerate Files & Data' button must be clicked to clear the CSS cache. |
+
+**_Style Note_**: While active voice is preferred for clarity, certain technical contexts may occasionally require passive phrasing. However, you should always default to an active structure when possible and ensure the chosen verb tense accurately reflects the operational step being described.
